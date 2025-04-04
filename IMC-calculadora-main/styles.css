@@ -5,7 +5,7 @@
 
 /* Define variáveis CSS para cores reutilizáveis */
 :root {
-    --laranja-claro: #Fddd ;
+    --laranja-claro: rgba(184, 83, 83, 0.867) ;
     /* Cor laranja para destaque */
     --alto-contraste-fundo: #161313;
     /* Cor de fundo para modo alto contraste */
